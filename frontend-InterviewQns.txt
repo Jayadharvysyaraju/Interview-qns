@@ -1,0 +1,74 @@
+
+
+Skills checked:
+JS core 
+1.  What is a closure and how it works in JavaScript
+2. What is a ‘hosting’
+3. How this works in JavaScript
+4.  call, apply and bind with example
+5.  Event bubbling and Event capturing
+6.  event delegation
+7.  prototypical inheritance / prototypical chain
+8.  strict mode and usual mode
+9.  What is EventLoop?
+ 
+ECMA
+1.  Difference between var, let and const?
+2.  What is a promise and how it works?
+3.  What is a arrow function and its difference from function syntax?
+4.  Generator and how it works
+5.  JS modules, export and export default
+6.  async/await
+ 
+Angular - Intermediate / Advanced
+ang js vs ang 
+bootsrapping
+dev build vs prod build
+jit vs aot
+ng serve vs ng build
+component life cycle hooks
+component communication (P: parent ,C:child =>P TO C, C to P,sibling/unrelated comp)
+types of bindings
+directive vs component
+types of directives
+custom directive & custom validator
+pipes & how to create custom pipe
+reactive forms with validation
+template driven forms with validation
+routing process
+route guards
+resolvers
+router navigation events
+Http calls with error handling
+http interceptors
+observable vs promises
+ 
+ 
+React JS and Redux – 
+1. Virtual DOM concept.
+2. Explain lifecycle of React component.
+3. Difference between state and props.
+4. Redux
+5. Role of reducer
+ 
+HTML 
+1. What is a Doctype?
+2. quirks mode and standart mode
+3. new features in html5
+4. Html storage Localstorage and sessionstorage
+ 
+CSS 
+1. Difference between adaptive and responsive design?
+2.  What is a repaint and reflow?
+3. Media query.
+4. Layout Methodology.
+5. How browser search selector?
+ 
+Networking 
+1. What is REST?
+2. REST principles.
+3. Difference between POST and PUT requests
+ 
+Design Patterns 
+1.  Factory Patterns
+2.  Singleton Patterns
